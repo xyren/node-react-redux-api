@@ -1,0 +1,42 @@
+.App {
+  text-align: left;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+
+.user-list{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding-top: 5px;
+}
+
+.user-item{
+  margin: 3px;
+}
+
+.list-group-item:hover{
+	background-color: #eee;
+}
+
+.form-control{
+	margin: 5px!important;
+	clear: both;
+	padding-bottom: 4em !important;
+}
+
+.button-back{float:right;position: absolute !important;right: 10px;}
+
+.MuiPaper-root{box-shadow:0px 0px !important;margin-bottom: 20px;}
+
+.App-header{margin: 70px 5px 20px 5px;}
+
+.MuiButton-outlined.MuiButton-colorInherit .MuiButton-label{color: #fff!important;}
+
+.MuiButton-outlined.MuiButton-colorInherit{border-color: #fff !important}
+.MuiButton-outlined.MuiButton-colorInherit:hover{background-color: rgba(0,0,0,0.7) !important}
+
+.MuiFormControl-root{display: block !important}
+
+.MuiInputBase-root.MuiOutlinedInput-root.MuiInputBase-formControl{display: block !important}
