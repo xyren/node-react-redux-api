@@ -1,0 +1,23 @@
+{
+  "name": "node_react_redux_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "create-react-app": "^1.5.2",
+    "express": "^4.17.1",
+    "mysql2": "^1.7.0",
+    "promise-mysql": "^4.1.1",
+    "yarn": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:api": "node server/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
